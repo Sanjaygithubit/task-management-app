@@ -9,6 +9,5 @@ export default defineConfig({
       overlay: false
     }
   },
-  // Add this for GitHub Pages
-  base: './',
+  base: './', // Simple base for HashRouter
 })
