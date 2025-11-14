@@ -8,5 +8,7 @@ export default defineConfig({
     hmr: {
       overlay: false
     }
-  }
+  },
+  // Add this for GitHub Pages
+  base: './',
 })
